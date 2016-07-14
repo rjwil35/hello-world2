@@ -8,4 +8,5 @@ fast microservices development.
 That is Topic Branching enables owners of a microservice to easliy
 and quickly switch between bug fix and new development efforts. 
 
+
 Merge check
